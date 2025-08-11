@@ -36,12 +36,8 @@ social:
   name: Adam Crease
   email: hello@adamcrease..dev # change to your email address
   links:
-    # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://github.com/creaseaj # change to your GitHub homepage
+    - https://www.linkedin.com/in/adam-crease
 
 # Site Verification Settings
 webmaster_verifications:

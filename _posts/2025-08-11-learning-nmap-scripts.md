@@ -2,8 +2,9 @@
 layout: post
 title:  "Creating an Nmap Script"
 date:   2025-08-11 11:00:00 +0100
-categories: nmap tooling
+categories: tooling
 description: Creating a custom nmap tool to validate plaintext FTP findings
+tags: nmap custom-tools
 ---
 
 While testing, I often come across FTP instances. While it is often employing the secure `FTPS`, sometimes cleartext FTP is still supported or only supported.
